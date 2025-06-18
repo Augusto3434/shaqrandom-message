@@ -1,0 +1,24 @@
+{
+  "name": "shaqrandom-message",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Augusto3434/shaqrandom-message.git"
+  },
+  "keywords": [],
+  "author": "Miguel Augusto Cisneros Hernandez <mcisneroshernandez33@gmai.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Augusto3434/shaqrandom-message/issues"
+  },
+  "homepage": "https://github.com/Augusto3434/shaqrandom-message#readme",
+  "bin":{
+    "shaqrandom-message": "/bin/global.js"
+  },
+  "preferGlobal": true
+}
